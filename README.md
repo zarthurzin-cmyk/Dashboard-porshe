@@ -11,7 +11,7 @@ Repositório: github.com/zarthurzin-cmyk/Dashboard-porshe
 
 🤖 Sobre o desenvolvimento
 
-Este projeto foi desenvolvido com apoio de Inteligência Artificial (prompt engineering + IA generativa para geração de código), com curadoria, ajustes e testes feitos por mim. A ideia, a estrutura de dados, os filtros e as decisões de UX/insights do dashboard foram definidos e validados manualmente.
+Este projeto foi desenvolvido 100% com Inteligência Artificial (IA generativa para geração de código).
 
 📊 Sobre o projeto
 
@@ -49,4 +49,4 @@ Depois é só abrir o .html (duplo clique ou arrastar para o navegador).
  Novo gráfico de evolução de receita ao longo do tempo
 👤 Autor
 
-Arthur Lobo Desenvolvido com apoio de IA generativa.
+Arthur Lobo Desenvolvido 100% com IA generativa
